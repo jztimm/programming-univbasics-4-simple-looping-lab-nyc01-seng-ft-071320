@@ -10,8 +10,6 @@ def loop_message_five_times(array)
   end
 end
 
-loop_message_five_times(ex_arr)
-
 
 def loop_message_n_times(array, n)
   # code here
