@@ -20,12 +20,13 @@ def loop_message_n_times(message, n)
 end
 
 
-def output_array(array)
-  # code here
+def output_array(message, n)
+  count = 0
+  while count
 end
 
 
-def return_string_array
+def return_string_array(array)
   # code here
 end
 
