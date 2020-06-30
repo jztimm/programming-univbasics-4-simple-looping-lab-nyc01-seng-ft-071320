@@ -2,7 +2,7 @@
 
 # ex_arr = ["this", "is", "for", "a", "method"]
 
-def loop_message_five_times(array)
+def loop_message_five_times(message)
   counter = 0
   while counter < 5 do
     puts message
